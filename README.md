@@ -33,7 +33,7 @@ The **GPT2-Shakespeare-Generator** project was developed to explore fine-tuning 
 Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/username/GPT2-Shakespeare-Generator.git
+git clone 'https://github.com/harshikala/FineTune-GPT2-TextGen.git'
 ```
 
 ## Usage
